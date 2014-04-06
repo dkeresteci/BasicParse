@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "YPsparse": {
+            "applicationId": "JZOvCEvYgQR1il9wEUO8iVavZ8OPW94FG3RAPxwm", 
+            "masterKey": "pf7A1d2eWNKsJRgqJmr2591Eyw43C8BM1X0G82qS"
+        }, 
+        "_default": {
+            "link": "YPsparse"
+        }
+    }
+}
